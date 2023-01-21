@@ -36,7 +36,7 @@ function Projects() {
               imgPath={mathDrills}
               isBlog={false}
               title="Math Drills"
-              description="A fullstack application built using Typescript and the MERN stack. Math Drills offers a near infinite number of algorithm-generated drills for users to keep their math skills sharp. It also includes a built-in terminal with irc-like channels where users can interact."
+              description="A fullstack application built using Typescript and the MERN stack. Math Drills offers a near infinite number of algorithm-generated drills for users to sharpen their math skills on. It also includes a built-in terminal with irc-like channels where users can interact."
               ghLink="https://github.com/FRTNX/math-drills"
               demoLink="https://drills.vercel.app"
             />
@@ -47,8 +47,8 @@ function Projects() {
               imgPath={shakesperium}
               isBlog={false}
               title="Shakesperium"
-              description="An app available on Android and iOS dedicated to making the deeper meanings of Shakespeare's works more accessible. Here I built the entire backend in Nodejs and Typescript while a remote team handled the frontend in React Native."
-              demoLink="https;//play.google.com/store/apps/details?id=com.dedalus.shakesperium"              
+              description="An app available on Android and iOS dedicated to making the deeper meanings of Shakespeare's works more accessible. This was a collaborative effort where I built the backend in Nodejs and Typescript while a remote team handled the frontend in React Native."
+              demoLink="https://play.google.com/store/apps/details?id=com.dedalus.shakesperium"              
             />
           </Col>
 
@@ -68,7 +68,7 @@ function Projects() {
               imgPath={worldbank}
               isBlog={false}
               title="World Bank Projects"
-              description="An advanced Python script that can be used to extract project information and documents from the World Bank. The data extracted is compiled in a JSON file for ease of further use."
+              description="A command-line application written in Python that can be used to extract project information and documents from the World Bank. The data extracted is exported into a JSON file for ease of consumption."
               ghLink="https://github.com/FRTNX/worldbank-projects"
             />
           </Col>
@@ -78,7 +78,7 @@ function Projects() {
               imgPath={calculus}
               isBlog={false}
               title="Calculus"
-              description="Built some useful calculus functions for graphing systems of equeions and finding their solution sets. The idea was to later add these functions to an online bot that may need to make complex calculations on the fly."
+              description="Built some calculus functions for graphing systems of equations and finding their solution sets. This is a component program intended for eventual use in online bots and crawlers that may need to make complex calculations on the fly."
               ghLink="https://github.com/FRTNX/calculus"
             />
           </Col>

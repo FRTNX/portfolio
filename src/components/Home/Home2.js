@@ -16,10 +16,10 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              WELCOME TO MY ONLINE <span className="purple"> PORTFOLIO </span>
+             Username <span className="purple"> FRTNX </span>
             </h1>
             <p className="home-about-body">
-             Developing software allows me to move in any direction and make meaningful impact.
+             Developing software allows me to move in any direction and make <b className="purple">meaningful </b>impact
               <br />
               <br />My super powers include  
               <i>
@@ -37,8 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              I am constantly searching for the optimum state. This had led to
-              a life of equal parts meditation, equal parts study.
+              I am constantly searching for the local optima.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
