@@ -8,9 +8,13 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Busani Ndlovu </span>
-            from <span className="purple"> Bulawayo, Zimbabwe.</span>
-            <br />I am a mid-level dev who loves space-tech and is working towards a physics degree.
+            Hello world! I'm <span className="purple">Busani </span>
+            from <span className="purple"> Bulawayo, Zimbabwe,</span> a beautiful, albiet troubled, country with surprisingly good internet speeds.
+            <br />
+            <br />
+            I'm <span className="purple">Fullstack Developer</span> who enjoys the peace of mind of modern typed languages like <span className="purple">Typescript </span>
+            and <span className="purple">Python 3.10.</span> Though I currently mostly build <span className="purple">Web Appplications</span> and <span className="purple">API's</span>, I'm gearing towards 
+            making my mark in the <span className="purple">Space Industry.</span> To that end I am persuing the relevent degrees in <span className="purple">Physics </span>and <span className="purple">Math.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -20,7 +24,7 @@ function AboutCard() {
               <ImPointRight /> Edurance Sports
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Teaching How to Code
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
