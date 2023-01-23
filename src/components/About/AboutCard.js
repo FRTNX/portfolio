@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             I'm a <span className="purple">Fullstack Developer</span> who enjoys the peace of mind of modern typed languages like <span className="purple">Typescript </span>
             and <span className="purple">Python 3.10.</span> Though I currently mostly build <span className="purple">Web Appplications</span> and <span className="purple">API's</span>, I'm gearing towards 
-            making my mark in the <span className="purple">Space Industry.</span> To that end I am persuing the relevent degrees in <span className="purple">Physics </span>and <span className="purple">Math.</span>
+            making my mark in the <span className="purple">Space Industry.</span> To that end I am pursuing the relevent degrees in <span className="purple">Physics </span>and <span className="purple">Math.</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
