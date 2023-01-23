@@ -9,8 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hello world! I'm <span className="purple">Busani </span>
-            from <span className="purple"> Bulawayo, Zimbabwe,</span> a beautiful, albiet troubled, country with surprisingly good internet speeds.
-            <br />
+            from <span className="purple"> Bulawayo, Zimbabwe.</span>
             <br />
             I'm a <span className="purple">Fullstack Developer</span> who enjoys the peace of mind of modern typed languages like <span className="purple">Typescript </span>
             and <span className="purple">Python 3.10.</span> Though I currently mostly build <span className="purple">Web Appplications</span> and <span className="purple">API's</span>, I'm gearing towards 
